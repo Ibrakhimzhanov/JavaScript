@@ -1,5 +1,6 @@
 # JavaScript 
 Date of writing the code is September 2, 2020
+
 Last update 2-September 2020
 
 Simulate Email Sending App
@@ -11,8 +12,11 @@ Simulate Email Sending App
 5) A Reset button should be added.
 
 Дата написания кода 2-Сентября 2020 года
+
 Последнее обновления 2-Сентября 2020 года
+
  // ***************** Russian ***************** \\
+ 
 Имитация приложения для отправки электронной почты
 
 1) Если какое-либо поле пусто, пользователь не может отправить электронное письмо.
